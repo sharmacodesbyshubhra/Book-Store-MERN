@@ -69,7 +69,7 @@ npm run dev
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Contact 
-shubhrasharma77426@gmail.com@gmail.com
+shubhrasharma77426@gmail.com
 
 
 Happy coding!

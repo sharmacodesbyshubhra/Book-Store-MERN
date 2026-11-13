@@ -69,10 +69,8 @@ npm run dev
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Contact 
-highimatharva@gmail.com
+shubhrasharma77426@gmail.com@gmail.com
 
-If you have any questions or want to discuss any of the lessons learned, feel free to reach out to me via LinkedIn or open an issue in this repository.
-`https://github.com/AtharvaChitnis/book-store-mern.git` && `https://www.linkedin.com/in/atharvachitnis`
 
 Happy coding!
 
